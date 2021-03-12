@@ -14,7 +14,7 @@ Following are the features they would like to implement:
 Solid, Transparent, Pearl, Chrome, Metallic, Milky, Glitter, Speckle, Ink, Process,
 Modulex
 
-1. The Builders' would like a search box that will accept a `LegoId` and display only that Lego. *What will you display if the `LegoId` is not valid? Being able to hit the enter key would be a nice touch too.
+6. The Builders' would like a search box that will accept a `LegoId` and display only that Lego. *What will you display if the `LegoId` is not valid? Being able to hit the enter key would be a nice touch too.
 
 
 ### Stretch Goal
